@@ -8,17 +8,16 @@
 
 <br>
 
-## <picture><img src = "./src/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./src/about_me.gif" width = 30px></picture> **About me**
 
-<picture> <img align="right" src="./src/about_me.gif" width = 250px></picture>
+<!-- <picture> <img align="right" src="./src/about_me.gif" width = 240px></picture> -->
 
-<br>
+<br><br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Creative, entrepreneurial and passionate about systems
+- Laravel specialist
 - Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently looking for new opportunities, this is [my resume](https://1drv.ms/b/s!AgUkfB7Pd8fkhLJOnDAFrrH8yunmzQ?e=09zPf3)
 
 <br><br>
 
