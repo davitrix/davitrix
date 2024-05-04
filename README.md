@@ -40,7 +40,7 @@
 
 - **Frameworks and libraries**:
 
-  [![Frameworks](https://skillicons.dev/icons?i=laravel,electron,nestjs,flutter)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=laravel,electron,nestjs,flutter,vue)](https://skillicons.dev)
 
 <br>
 
