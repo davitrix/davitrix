@@ -1,5 +1,5 @@
 <h2 align="left">Hola 👋 Te doy la bienvenida a mi perfil</h2>
-<h3>Visita mi portafolio en <a href="https://david-alvarado.criptivo.com/" target="_blank" rel="noopener noreferrer">https://david-alvarado.criptivo.com/</a></h3>
+<h4>Visita mi portafolio en <a href="https://david-alvarado.criptivo.com/" target="_blank" rel="noopener noreferrer">https://david-alvarado.criptivo.com/</a></h3>
 
 ###
 
@@ -44,8 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
 </div>
 
+<hr>
+
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31irbbjmxi5vp6okcvg5apzzavmq)
+![Spotify latest music](https://spotify-recently-played-readme.vercel.app/api?user=31irbbjmxi5vp6okcvg5apzzavmq)
 
 ###
