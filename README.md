@@ -1,21 +1,21 @@
-<h2 align="left">Hola 👋 Te doy la bienvenida a mi perfil</h2>
-<h4>Visita mi portafolio en <a href="https://david-alvarado.criptivo.com/" target="_blank" rel="noopener noreferrer">https://david-alvarado.criptivo.com/</a></h3>
+<h2 align="left">Hola 👋, te doy la bienvenida a mi perfil</h2>
+<h4>Visita mi portafolio en <a href="https://david-alvarado.criptivo.com/" target="_blank" rel="noopener noreferrer">https://david-alvarado.criptivo.com/</a></h4>
 
 ###
 
-<p align="left">Soy David Alvarado, un desarrollador profesional con más de seis años de experiencia destacado por mi carácter investigativo, dinámico y mi compromiso con el aprendizaje continuo. <br><br>Mi objetivo es contribuir al desarrollo de proyectos tecnológicos innovadores, resolviendo problemas complejos y generando valor para la organización.</p>
+<p align="left">Soy David Alvarado, un desarrollador profesional con más de seis años de experiencia, destacado por mi carácter investigativo, mi dinamismo y compromiso con el aprendizaje continuo. <br><br>Mi objetivo es contribuir al desarrollo de proyectos tecnológicos innovadores, resolver problemas complejos y generar valor para la organización.</p>
 
 ###
 
-<h2 align="left">Sobre Mi</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
 <p align="left">
-✨ Descubrí la programación a los 18 años a través de los videojuegos, desde entonces innovando bugs 🤪. <br>
-🎯 Objetivos: Contribuir al desarrollo de proyectos tecnológicos innovadores, resolviendo problemas complejos y generando valor para la organización. <br>
-🎲 Dato curioso: Sabias que en W10 y W11 puedes seleccionar emojis pulsado las teclas <kbd>Win</kbd> +  <kbd>.</kbd> <br>
-😎 Hobbies: Saltar a la cuerda y trotar, un cuerpo sano conserva una mente sana.
+✨ Descubrí la programación a los 18 años a través de los videojuegos; desde entonces, he estado innovando bugs 🤪. <br>
+🎯 Objetivos: Contribuir al desarrollo de proyectos tecnológicos innovadores, resolver problemas complejos y generar valor para la organización. <br>
+🎲 Dato curioso: ¿Sabías que en W10 y W11 puedes seleccionar emojis pulsando las teclas <kbd>Win</kbd> + <kbd>.</kbd>? <br>
+😎 Hobbies: Saltar a la cuerda y trotar; un cuerpo sano conserva una mente sana.
 </p>
 
 ###
